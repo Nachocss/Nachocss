@@ -3,9 +3,9 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/ignaciosierraclavijo/">Linkedin</a>&nbsp;&nbsp;
-<a href="https://ignacio-sierra.itch.io">Itch.io</a>&nbsp;&nbsp;
-<a href="http://ignaciosierra.epizy.com">Portfolio</a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/ignaciosierraclavijo/" target="_blank">Linkedin</a>&nbsp;&nbsp;
+<a href="https://ignacio-sierra.itch.io" target="_blank">Itch.io</a>&nbsp;&nbsp;
+<a href="http://ignaciosierra.epizy.com" target="_blank">Portfolio</a>&nbsp;&nbsp;
 </p>
 
 <hr>
