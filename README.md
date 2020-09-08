@@ -2,6 +2,11 @@
    <h1>Hi there, I'm Ignacio, AKA Nacho, AKA Nachete <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+<p align='center'>
+   <a href="www.linkedin.com/in/ignaciosierraclavijo/">Linkedin</a>&nbsp;&nbsp;
+<a href="https://ignacio-sierra.itch.io">Itch.io</a>&nbsp;&nbsp;
+<a href="http://ignaciosierra.epizy.com">Portfolio</a>&nbsp;&nbsp;
+</p>
 
 <hr>
 
