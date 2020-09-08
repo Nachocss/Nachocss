@@ -3,7 +3,7 @@
 </div>
 
 <p align='center'>
-   <a href="www.linkedin.com/in/ignaciosierraclavijo/">Linkedin</a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/ignaciosierraclavijo/">Linkedin</a>&nbsp;&nbsp;
 <a href="https://ignacio-sierra.itch.io">Itch.io</a>&nbsp;&nbsp;
 <a href="http://ignaciosierra.epizy.com">Portfolio</a>&nbsp;&nbsp;
 </p>
