@@ -2,7 +2,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nachocss)](https://github.com/nachocss/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachocss&layout=compact)](https://github.com/nachocss/github-readme-stats)
-
+<a href="https://github.com/ayudadigital/huelladigital-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayudadigital&repo=huelladigital-backend" />
+</a>
 <!--
 **Nachocss/Nachocss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
