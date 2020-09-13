@@ -10,7 +10,7 @@
 
 <hr>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nachocss)](https://github.com/nachocss/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nachocss&hide=stars)](https://github.com/nachocss/github-readme-stats)
 
 <hr>
 
