@@ -16,13 +16,14 @@
 
 <h2 align="center">Open-Source projects</h2>
 
-<a href="https://github.com/ayudadigital/huelladigital-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayudadigital&repo=huelladigital-backend" />
-</a>
-<a href="https://github.com/ayudadigital/huelladigital-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayudadigital&repo=huelladigital-platform" />
-</a>
-
+<div align="center">
+   <a href="https://github.com/ayudadigital/huelladigital-backend">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayudadigital&repo=huelladigital-backend" />
+   </a>
+   <a href="https://github.com/ayudadigital/huelladigital-platform">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayudadigital&repo=huelladigital-platform" />
+   </a>
+</div>
 
 
 
