@@ -10,8 +10,9 @@
 
 <hr>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nachocss&hide=stars)](https://github.com/nachocss/github-readme-stats)
-
+<div align="center">
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nachocss&hide=stars)](https://github.com/nachocss/github-readme-stats)
+</div>
 <hr>
 
 <h2 align="center">Open-Source projects</h2>
