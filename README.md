@@ -19,6 +19,9 @@
 <a href="https://github.com/ayudadigital/huelladigital-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayudadigital&repo=huelladigital-backend" />
 </a>
+<a href="https://github.com/ayudadigital/huelladigital-platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayudadigital&repo=huelladigital-platform" />
+</a>
 
 
 
