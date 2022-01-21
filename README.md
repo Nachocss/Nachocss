@@ -4,14 +4,10 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/ignaciosierraclavijo/" target="_blank">Linkedin</a>&nbsp;&nbsp;
-<a href="https://ignacio-sierra.itch.io" target="_blank">Itch.io</a>&nbsp;&nbsp;
-<a href="http://ignaciosierra.epizy.com" target="_blank">Portfolio</a>&nbsp;&nbsp;
+<a href="https://nacho-sierra.itch.io" target="_blank">Itch.io</a>&nbsp;&nbsp;
+<a href="https://www.nachosierra.com" target="_blank">Portfolio</a>&nbsp;&nbsp;
 <a href="https://www.artstation.com/nachosierra" target="_blank">Artstation</a>&nbsp;&nbsp;
 </p>
-
-<hr>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nachocss&hide=stars)](https://github.com/nachocss/github-readme-stats)
 
 <hr>
 
@@ -25,24 +21,3 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayudadigital&repo=huelladigital-platform" />
    </a>
 </div>
-
-
-
-<!--
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachocss&layout=compact)](https://github.com/nachocss/github-readme-stats)
--->
-<!--
-**Nachocss/Nachocss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
